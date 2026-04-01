@@ -81,3 +81,4 @@ This project demonstrates how data analysis can move beyond reporting and be use
 
 ## 📬 Connect with Me
 If you found this project interesting, feel free to connect or share feedback! 
+🔗 [LinkedIn](http://www.linkedin.com/in/vankayalapati-akhil)
